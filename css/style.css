@@ -3,7 +3,7 @@
 
 body {
   margin: 0;
-  background-color:
+  background-color: #65668c
 }
 
 header {
@@ -16,14 +16,14 @@ header h1 {
   text-align: center;
   margin: 0;
   padding-top: .25em;
-  color: #7e0f12
+  color: white;
 }
 
 header h2 {
   text-align: center;
   margin: 0;
   padding-bottom: 1em;
-  color: #7e0f12
+  color: white;
 
 }
 
@@ -44,12 +44,13 @@ nav {
   width: 1000px;
   padding: 5px 0;
   text-align: center;
-  background-color: #652425;
-  border: 5px #b9b4b5 solid;
+  background-color: #bb010a;
+  border: 3px #b9b4b5 solid;
 }
 
 nav a {
   margin: 0 35px;
+  color: white;
 }
 
 .floatright {
@@ -61,4 +62,7 @@ nav a {
   margin: 0 auto;
   width: 1000px;
   padding: 5px 15px;
+}
+#maincolumn {
+  background-color: #2a3178
 }
